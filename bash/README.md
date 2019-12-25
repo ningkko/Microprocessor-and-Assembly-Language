@@ -1,17 +1,5 @@
 ### stars.bash
-The bash program outputs
-
-*     *
-**    *
-***   *
-****  *
-***** *
-*******
-***** *
-****  *
-***   *
-**    *
-*     *
+The bash program outputs a series of stars
 
 
 ### fakeNQueens.sh
